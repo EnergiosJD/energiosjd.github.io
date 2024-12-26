@@ -1,12 +1,20 @@
 #EXTM3U tvg-logo=Auto url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 deinterlace=1 cache=2000
 
 ###Vitrina
-#EXTINF:-1 group-title="",Первый канал HD
+#EXTINF:-1 group-title="Vitrina",Первый канал HD
 https://edge01r.mediavitrina.ru/hls-livef2/1tv/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",Россия 1 HD
 https://edge01r.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",НТВ HD
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",НТВ +1
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv1h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",НТВ +2
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",НТВ +4
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",Солнце
+https://edge01r.mediavitrina.ru/hls-livef2/solntse/tracks-v3a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",РЕН ТВ HD
 https://edge01r.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",Матч ТВ HD
@@ -21,14 +29,26 @@ https://edge01r.mediavitrina.ru/hls-livef2/channel78/tracks-v5a1/mono.m3u8?token
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",ТВЦ HD
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tvc/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
-#EXTINF:-1 group-title="Vitrina",Пятница! HD
-https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",ТВ3 HD
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТВ3 +2
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТВ3 +4
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТВ3 +7
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",ТНТ HD
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТНТ +2
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТНТ +4
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",ТНТ +7
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",СТС HD
 https://edge01r.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",Пятница! HD
+https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",Пятница! HD (+2)
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",Пятница! HD (+4)
@@ -59,12 +79,58 @@ https://edge01r.mediavitrina.ru/hls-livef2/ctc-che/tracks-v3a1/mono.m3u8?token=v
 https://edge01r.mediavitrina.ru/hls-livef2/ctc-love/tracks-v3a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
 #EXTINF:-1 group-title="Vitrina",Карусель
 https://edge01r.mediavitrina.ru/hls-livec2/streams/vitrina-hls/karusel/tracks-v3a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+#EXTINF:-1 group-title="Vitrina",Домашний
+https://edge01r.mediavitrina.ru/hls-livef2/ctc-dom/tracks-v3a1/mono.m3u8?token=v2.1hc9k18O_CkxYEo17xFnonS2ZOh8U6kdVKYugh1sG_o.omnDNpyCxz9I4f4ioLzIxMggkjw85Cp1mgC_6JWF7k0.1735831009.cbcf2f83e4a618c297134b312427f71a
+
+### NTV CDN
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD (Москва)
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/1755.png",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="NTV CDN" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD (Перемотка назад)
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+
+### Test
+#EXTINF:-1 group-title="Test", Россия 1 (+1)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+3)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+4)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+6)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+7)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+8)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test", Россия 1 (+9)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 ### Mult
 #EXTINF:-1,Мульт HD
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1,Солнце
-https://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 
 ### Music
 #EXTINF:-1 group-title="Музыка",RU TV HD
@@ -73,20 +139,20 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 ### LAV
-#EXTINF:-1 group-title="LAV",RE TV HD
+#EXTINF:-1 group-title="LAV",RETV HD
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b4692000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="LAV",Vidusdaugavas TV
 https://straume.vdtv.lv/vdtv1/index.m3u8
-#EXTINF:-1 group-title="С сайтов",LTV1
+#EXTINF:-1 group-title="LAV",LTV1
 #EXTVLCOPT:http-referrer=https://megogo.net
 https://vs848.vcdn.biz/8791b3a2da97623a0eb4c2d2d1682180_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/6bb3d13d-cf25-440e-9396-f925bd8ee39d/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.115.113.77*asn/u_srvc/31681/u_did/web_x7K8NMb0yCzLFbvh9fr3cmuU1va8wPht/type.live/chunklist-sid2469550234701677171-b2490000.m3u8
-#EXTINF:-1 group-title="LATVIA",LTV7
+#EXTINF:-1 group-title="LAV",LTV7
 #EXTVLCOPT:http-referrer=https://megogo.net
 https://vs841.vcdn.biz/268424f9cddc66f1f6ab81723571c72a_megogo/live/hls/b/700_2490/u_sid/0/o/38447361/rsid/3bd9e0b5-31e5-49b0-bb9e-32d9c4a32830/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.115.113.77*asn/u_srvc/31681/u_did/web_1YLhPkPNkmH6IulxX7ZDnpBGfIbd1bZz/type.live/chunklist-sid1653118911748116155-b2490000.m3u8
 
 
 ###RUS
-#EXTINF:-1 group-title="С сайтов",Бобёр
+#EXTINF:-1 group-title="Ofic",Бобёр
 #EXTVLCOPT:http-referrer=https://bober.ru
 https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 
