@@ -95,10 +95,6 @@ https://edge02r.mediavitrina.ru/hls-livef7/karusel/tracks-v3a1/mono.m3u8?token=v
 #EXTINF:-1 group-title="Vitrina",Домашний
 https://edge01r.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v3a1/mono.m3u8?token=v2.2jyhfJVo8a9wsZTxgOhYQAwLQThDjpQUpwCCagCpzeg.Cf9sutrixpxqkXHwmnZUxSLEJtYjXP-THQycsRaRx9k.1777722964.4abd120fe1fc26eb83d986837ee92e03
 
-### Life is Good
-#EXTINF:-1 group-title="Познавательные",Загородный Int
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-
 
 
 ### NTV CDN
@@ -131,7 +127,7 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Test",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Test",Россия 1 (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Test",Россия 1 (+2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Test",Россия 1 (+3)
@@ -154,11 +150,11 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8
-#EXTINF:-1 ,Россия 24
+#EXTINF:-1 ,Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 ,Россия 24 (Резерв)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 ,Россия К (Резерв)
+#EXTINF:-1 ,Россия К HD (Резерв)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
@@ -200,17 +196,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Нижний Новгород 24 HD
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 
-### Mult
-#EXTINF:-1,Мульт HD
-###https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
-###http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1,МУЛЬТиМУЗЫКА
-http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
-
-### Music
-#EXTINF:-1 group-title="Музыка",RU TV HD
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 ### LAV
 #EXTINF:-1 group-title="LAV",RETV HD
@@ -228,9 +213,9 @@ https://vs3555.vcdn.biz/9971fe8082365fe98d0509d5a4139f5f_megogo/live/hls/b/700_2
 
 ###RUS
 #EXTINF:-1 group-title="Ofic",Бобер
-#EXTVLCOPT:http-referrer=https://bober.ru
+###EXTVLCOPT:http-referrer=https://bober.ru
 ###https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
-https://pkvc-hls7.cdnvideo.ru/pkvc/bober/playlist.m3u8
+###https://pkvc-hls7.cdnvideo.ru/pkvc/bober/playlist.m3u8
 #EXTINF:-1,ТВ Губерния HD
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1,360°
@@ -257,14 +242,171 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 ,Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 ,Усадьба
-http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
-#EXTINF:-1 ,ЗЖ
-http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
-#EXTINF:-1 ,Кухня
-http://195.158.223.132:8009/Kuhnya_TV
+
+### Test2
+#EXTINF:-1 group-title="Test2", National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Terra
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Ocean TV
+https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Точка РФ
+https://a3569457567-s70378.cdn.ngenix.net/hd_life/2/index.m3u8
+#EXTINF:-1 group-title="Test2",History
+https://a3569457567-s70378.cdn.ngenix.net/history/2/index.m3u8
+#EXTINF:-1 group-title="Test2", H2
+https://a3569457567-s70378.cdn.ngenix.net/history_2/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Дикий 
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/2/index.m3u8
+#EXTINF:-1 group-title="Test2", RTG HD
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/4/index.m3u8
+#EXTINF:-1 group-title="Test2", DocuBox
+https://a3569457567-s70378.cdn.ngenix.net/docubox/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Galaxy TV
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Глазами туриста
+https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
+#EXTINF:-1 group-title="Test2", Travel+Adventure
+https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
+#EXTINF:-1 group-title="Test2", The explorers
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Viasat Explore
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Viasat History
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Viasat Nature
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+#EXTINF:-1 group-title="Test2", 365 дней
+https://a3569457567-s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Hollywood HD
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Amedia Hit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Amedia Premium HD
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/4/index.m3u8
+#EXTINF:-1 group-title="Test2", Bloomberg
+https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
+#EXTINF:-1 group-title="Test2", .sci-fi
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1 group-title="Test2", .Black
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1 group-title="Test2", .Red
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Телекафе
+https://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Индийское кино 
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Индия
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Кинохит
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Кинокомедия
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOKOMEDIYA//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Киномикс
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOMIXHD//video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Кинопремьера HD
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOPREMIERAHD//video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Наше новое кино
+https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Киноужас
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Киносерия
+https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Киносвидание 
+https://a3569457567-s70378.cdn.ngenix.net/kinoklub/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Мужское кино
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_MUJSKOE_KINOHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Test2", Дом Кино Премиум
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1 group-title="Test2", ТВ3
+https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
+#EXTINF:-1 group-title="Test2", TV XXI
+https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+#EXTINF:-1 group-title="Test2", VIP Comedy
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+#EXTINF:-1 group-title="Test2", VIP Megahit
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1 group-title="Test2", VIP Premiere
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1 group-title="Test2", VIP Serial
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Время
+https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Дом Кино
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Euronews
+https://a3569457567-s70378.cdn.ngenix.net/euronews/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Еврокино
+https://a3569457567-s70378.cdn.ngenix.net/evrokino/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Мир сериала 
+https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/2/index.m3u8
+#EXTINF:-1 group-title="Test2", FashionBox
+https://a3569457567-s70378.cdn.ngenix.net/fashion_box/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Filmbox
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Filmbox Arthouse
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Flixsnip
+https://a3569457567-s70378.cdn.ngenix.net/flixsnip/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Fox life
+https://a3569457567-s70378.cdn.ngenix.net/fox_life/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Иллюзион+
+https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Зоопарк
+https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Известия
+https://a3569457567-s70378.cdn.ngenix.net/izvestiya/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Живи
+https://a3569457567-s70378.cdn.ngenix.net/jivi/2/index.m3u8
+#EXTINF:-1 group-title="Test2", КВН ТВ
+https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Мир 24
+https://a3569457567-s70378.cdn.ngenix.net/mir_24/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Мир 
+https://a3569457567-s70378.cdn.ngenix.net/mir/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Ностальгия 
+https://a3569457567-s70378.cdn.ngenix.net/nostalgia/2/index.m3u8
+#EXTINF:-1 group-title="Test2", РБК
+https://a3569457567-s70378.cdn.ngenix.net/rbc/2/index.m3u8
+#EXTINF:-1 group-title="Test2", RTVI
+https://a3569457567-s70378.cdn.ngenix.net/rtvi/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Mezzo
+https://a3569457567-s70378.cdn.ngenix.net/mezzo/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Tiji
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+#EXTINF:-1 group-title="Test2", СТС Kids
+https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Nickelodeon
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Nicktoons
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Малыш
+https://a3569457567-s70378.cdn.ngenix.net/malish/2/index.m3u8
+#EXTINF:-1 group-title="Test2",Gulli Girl
+https://a3569457567-s70378.cdn.ngenix.net/gulli/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Карусель 
+https://a3569457567-s70378.cdn.ngenix.net/karusel/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Da Vinci
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Детский мир
+https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
+#EXTINF:-1 group-title="Test2", UFC
+https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Viasat sport
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Бокс ТВ
+https://a3569457567-s70378.cdn.ngenix.net/boks_tv/2/index.m3u8
+#EXTINF:-1 group-title="Test2", Матч! Планета 
+https://a3569457567-s70378.cdn.ngenix.net/match_planeta/2/index.m3u8
+#EXTINF:-1 group-title="Test2", KHL
+https://a3569457567-s70378.cdn.ngenix.net/kxl/2/index.m3u8
+#EXTINF:-1 group-title="Test2", MMA-TV.com
+https://a3569457567-s70378.cdn.ngenix.net/m1_global/2/index.m3u8
+
 
 ### Radio
 #EXTINF:-1 group-title="Радио",Radio - Популярная классика
@@ -279,9 +421,6 @@ https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8
 https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
 #EXTINF:-1 group-title="Радио",Radio - Радио для Двоих
 http://icecast-radiofortwo.cdnvideo.ru:8000/radiofortwo
-#EXTINF:-1 group-title="Радио",Radio - Маруся-FM Сосновый бор
-#EXTALBUMARTURL:https://rosradio-online.ru/logos/marusya.jpg
-http://s0.radioheart.ru:8000/MARUSYA_SBor
 
 ### Movi
 #EXTINF:-1 ,Фильм - Салют-7
