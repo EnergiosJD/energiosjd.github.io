@@ -133,14 +133,11 @@ https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_8
 https://straume.vdtv.lv/vdtv1/index.m3u8
 #EXTINF:-1 group-title="LAV",LTV1
 #EXTVLCOPT:http-referrer=https://megogo.net
-###https://vs848.vcdn.biz/8791b3a2da97623a0eb4c2d2d1682180_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/6bb3d13d-cf25-440e-9396-f925bd8ee39d/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.115.113.77*asn/u_srvc/31681/u_did/web_x7K8NMb0yCzLFbvh9fr3cmuU1va8wPht/type.live/chunklist-sid2469550234701677171-b2490000.m3u8
-###https://vs3531.vcdn.biz/db4a73e17cf3e8cfb638e5daa697105f_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/b5c631b7-624e-4f8b-b2de-7990e33b7e8a/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/94.30.139.169*asn/u_srvc/31681/u_did/web_6ZCScBcCGuORmPGlisuIuLSR8bHGKGP4/type.live/chunklist-sid3709145599758274624-b2490000.m3u8
-https://vs3531.vcdn.biz/44354e495ccdb8f7398746526451860c_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/10ca388a-4ee4-4027-b44c-8200a7ca32bc/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/80.89.72.137*asn/u_srvc/31681/u_did/web_31775b38e66494ccac4f707d33de0cbc9d80ddfc69da25b6f4170d47be0a1d61/type.live/chunklist-sid5035961630136387687-b2490000.m3u8
+https://vs3531.vcdn.biz/7f89e612e2092a24cef144ada15d77ae_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/a4cb5ac8-9245-4ca5-a308-7f10a05ca5b4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/94.30.139.169*asn/u_srvc/31681/u_did/web_0792a5dbb6b1bbf4531a5a0d2a96de87b6e7d5ed59a25cf8fab26e0f8aa61332/type.live/chunklist-sid2438525303116217637-b2490000.m3u8
+
 #EXTINF:-1 group-title="LAV",LTV7
 #EXTVLCOPT:http-referrer=https://megogo.net
-###https://vs841.vcdn.biz/268424f9cddc66f1f6ab81723571c72a_megogo/live/hls/b/700_2490/u_sid/0/o/38447361/rsid/3bd9e0b5-31e5-49b0-bb9e-32d9c4a32830/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.115.113.77*asn/u_srvc/31681/u_did/web_1YLhPkPNkmH6IulxX7ZDnpBGfIbd1bZz/type.live/chunklist-sid1653118911748116155-b2490000.m3u8
-###https://vs3555.vcdn.biz/9971fe8082365fe98d0509d5a4139f5f_megogo/live/hls/b/700_2490/u_sid/0/o/38447361/rsid/f50915d3-1c1f-4fa6-bd1c-185a55af2957/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/94.30.139.169*asn/u_srvc/31681/u_did/web_6ZCScBcCGuORmPGlisuIuLSR8bHGKGP4/type.live/chunklist-sid8562316004748168466-b2490000.m3u8
-https://vs3552.vcdn.biz/e9b95dd41c541237f982d04744e87b71_megogo/live/hls/b/700_2490/u_sid/0/o/38447361/rsid/1a55e212-b6d6-4477-8046-d0b087cf5cba/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/80.89.72.137*asn/u_srvc/31681/u_did/web_31775b38e66494ccac4f707d33de0cbc9d80ddfc69da25b6f4170d47be0a1d61/type.live/chunklist-sid5139524781897057127-b2490000.m3u8
+https://vs3554.vcdn.biz/dca7aa2ebfb9a67d6286ad9b57e8ae98_megogo/live/hls/b/700_2490/u_sid/0/o/38447361/rsid/81d719a5-e3cb-42fc-ba86-c8fda6bf4ad6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/94.30.139.169*asn/u_srvc/31681/u_did/web_0792a5dbb6b1bbf4531a5a0d2a96de87b6e7d5ed59a25cf8fab26e0f8aa61332/type.live/chunklist-sid5177145835889710951-b2490000.m3u8
 
 ###RUS
 #EXTINF:-1,ТВ Губерния HD
@@ -609,29 +606,29 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://85.234.33.63/stream/c11.m3u8
 
 
-#EXTINF:-1 group-title="Test5", Россия 1 HD
+#EXTINF:-1 group-title="Test5",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+2)
+#EXTINF:-1 group-title="Test5",Россия 1 (+1)
+https://live.smotrim.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Test5",Россия 1 (+2)
 https://live.smotrim.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+3)
+#EXTINF:-1 group-title="Test5",Россия 1 (+3)
 https://live.smotrim.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+4)
+#EXTINF:-1 group-title="Test5",Россия 1 (+4)
 https://live.smotrim.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+5)
+#EXTINF:-1 group-title="Test5",Россия 1 (+5)
 https://live.smotrim.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+6)
+#EXTINF:-1 group-title="Test5",Россия 1 (+6)
 https://live.smotrim.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+7)
+#EXTINF:-1 group-title="Test5",Россия 1 (+7)
 https://live.smotrim.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+8)
+#EXTINF:-1 group-title="Test5",Россия 1 (+8)
 https://live.smotrim.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5", Россия 1 (+9)
+#EXTINF:-1 group-title="Test5",Россия 1 (+9)
 https://live.smotrim.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Test5" ,Россия 24
+#EXTINF:-1 group-title="Test5",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="Test5" ,Россия К
+#EXTINF:-1 group-title="Test5",Россия К
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 
 #EXTINF:-1 group-title="Test5" ,Смотрим 100% Любовь
@@ -681,15 +678,15 @@ https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/ch
 
 
 
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", RTG HD
+#EXTINF:-1 group-title="Развлечение" audio-track="rus",RTG HD
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_RTG/index.m3u8?clckid=55fcb46d
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", Travel Channel HD
+#EXTINF:-1 group-title="Развлечение" audio-track="rus",Travel Channel HD
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_TRAVEL_CHANNEL/index.m3u8?clckid=d7df0133
 
 #EXTINF:-1 ,Первый канал HD
 http://okko-msk2-edge-cdp2.playfamily.ru/tv/cid/364162160-1788004008-GIHPXGYYuRZGDBzrSlqt4A/cdnvideo/hls/1tv.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Дом, дача и ремонт" tvg-logo="https://iptvx.one/picons/bobior.png" tvg-id="bobior" tvg-description="Телеканал о ремонте, обустройстве дома и DIY-проектах.",Бобёр
+#EXTINF:-1 group-title="Дом, дача и ремонт" tvg-logo="https://iptvx.one/picons/bobior.png" ,Бобёр
 http://live.ru-tv.site/8172/video.m3u8?token=6ae9990c11ab92b4aeef0bd9ec492bd5
 
 
