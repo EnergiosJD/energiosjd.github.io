@@ -62,7 +62,7 @@ https://edge01r.mediavitrina.ru/hls-livef7/tnt2h/tracks-v5a1/mono.m3u8?token=v2.
 #EXTINF:-1 group-title="Vitrina",ТНТ +4
 https://edge01r.mediavitrina.ru/hls-livef7/tnt4h/tracks-v5a1/mono.m3u8?token=v2.kg5gtOobbLUFL9HjO0Dp8qnDYlKzpa9sMeeU-iTOn1k.h1mEDQ1wfbbtRlU7gPAMn_mW727SyLUiKzbRoabbuPs.1788600912.f2152be956c868df31e784da7af66e73
 #EXTINF:-1 group-title="Vitrina",ТНТ +7
-https://edge01r.mediavitrina.ru/hls-livef7/tnt2h/tracks-v5a1/mono.m3u8?token=v2.kg5gtOobbLUFL9HjO0Dp8qnDYlKzpa9sMeeU-iTOn1k.h1mEDQ1wfbbtRlU7gPAMn_mW727SyLUiKzbRoabbuPs.1788600912.f2152be956c868df31e784da7af66e73
+https://edge01r.mediavitrina.ru/hls-livef7/tnt7h/tracks-v5a1/mono.m3u8?token=v2.kg5gtOobbLUFL9HjO0Dp8qnDYlKzpa9sMeeU-iTOn1k.h1mEDQ1wfbbtRlU7gPAMn_mW727SyLUiKzbRoabbuPs.1788600912.f2152be956c868df31e784da7af66e73
 #EXTINF:-1 group-title="Vitrina",СТС HD
 https://edge01r.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.m3u8?token=v2.kg5gtOobbLUFL9HjO0Dp8qnDYlKzpa9sMeeU-iTOn1k.h1mEDQ1wfbbtRlU7gPAMn_mW727SyLUiKzbRoabbuPs.1788600912.f2152be956c868df31e784da7af66e73
 #EXTINF:-1 group-title="Vitrina",Пятница! HD
@@ -654,7 +654,7 @@ https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 group-title="Test5" ,Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Общие" audio-track="rus", Москва. Доверие
+#EXTINF:-1 group-title="Общие" audio-track="rus",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 ,Россия 1 / ГТРК Тверь
 https://live-gtrk.smotrim.ru/vgtrk/tver/russia1-hd/index.m3u8
